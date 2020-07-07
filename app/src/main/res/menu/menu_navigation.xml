@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/event"
+        android:title="Event"
+        android:icon="@drawable/ic_event"/>
+
+    <item
+        android:id="@+id/booster"
+        android:title="Booster"
+        android:icon="@drawable/ic_create"/>
+
+    <item
+        android:id="@+id/shop"
+        android:title="Shooping"
+        android:icon="@drawable/ic_shopping_cart"/>
+
+</menu>
