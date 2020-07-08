@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "662127951835",
+    "firebase_url": "https://karib-cbb2b.firebaseio.com",
+    "project_id": "karib-cbb2b",
+    "storage_bucket": "karib-cbb2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662127951835:android:6fd7c2b1baec99245571fe",
+        "android_client_info": {
+          "package_name": "com.aryotech.sahabatkarib"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662127951835-udbnp4umr963o3ds0d8abf26cu1chucd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aryotech.sahabatkarib",
+            "certificate_hash": "2e1cd91deb74d6629ae5042f355a286db7da1dfb"
+          }
+        },
+        {
+          "client_id": "662127951835-ufdr3420m4gjvg78v5v04aukmmvtfere.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqK3GajobIjLfx8UK642DIBSM_R5KVB-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662127951835-ufdr3420m4gjvg78v5v04aukmmvtfere.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
