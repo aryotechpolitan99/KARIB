@@ -14,10 +14,10 @@ import com.aryotech.sahabatkarib.R;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class Shoping extends Fragment {
+public class BoosterFragment extends Fragment {
 
 
-    public Shoping() {
+    public BoosterFragment() {
         // Required empty public constructor
     }
 
@@ -26,7 +26,7 @@ public class Shoping extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_shoping, container, false);
+        return inflater.inflate(R.layout.fragment_booster, container, false);
     }
 
 }

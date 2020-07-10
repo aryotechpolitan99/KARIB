@@ -2,17 +2,17 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:id="@+id/event"
+        android:id="@+id/event_nav"
         android:title="Event"
         android:icon="@drawable/ic_event"/>
 
     <item
-        android:id="@+id/booster"
+        android:id="@+id/booster_nav"
         android:title="Booster"
         android:icon="@drawable/ic_create"/>
 
     <item
-        android:id="@+id/shop"
+        android:id="@+id/shop_nav"
         android:title="Shooping"
         android:icon="@drawable/ic_shopping_cart"/>
 
